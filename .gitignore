@@ -1,12 +1,4 @@
-Lesson 2 - Logistic Regression for Classification/weather-dataset-rattle-package/weatherAUS.csv
-Lesson 2 - Logistic Regression for Classification/val_targets.parquet
-Lesson 2 - Logistic Regression for Classification/val_inputs.parquet
-Lesson 2 - Logistic Regression for Classification/train_targets.parquet
-Lesson 2 - Logistic Regression for Classification/train_inputs.parquet
-Lesson 2 - Logistic Regression for Classification/test_targets.parquet
-Lesson 2 - Logistic Regression for Classification/test_inputs.parquet
-Lesson_5_Gradient_Boosting_with_XGBoost/submission.csv
-Lesson_5_Gradient_Boosting_with_XGBoost/rossmann-store-sales/sample_submission.csv
-Lesson_5_Gradient_Boosting_with_XGBoost/rossmann-store-sales/store.csv
-Lesson_5_Gradient_Boosting_with_XGBoost/rossmann-store-sales/test.csv
-Lesson_5_Gradient_Boosting_with_XGBoost/rossmann-store-sales/train.csv
+*.parquet
+*.csv
+*.zip
+*.txt
